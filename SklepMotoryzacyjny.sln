@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SklepMotoryzacyjny.WebUI", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SklepMotoryzacyjny.UnitTests", "SklepMotoryzacyjny.UnitTests\SklepMotoryzacyjny.UnitTests.csproj", "{DF6BFB10-6A85-4437-BE1D-D822695FED9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SklepMotoryzacyjny.Domain", "SklepMotoryzacyjny.Domain\SklepMotoryzacyjny.Domain.csproj", "{F26B15CC-CF04-46E8-8CA0-B7A150BB62BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SklepMotoryzacyjny.Domain", "SklepMotoryzacyjny.Domain\SklepMotoryzacyjny.Domain.csproj", "{55C709BE-500C-48A7-92D0-07CBE3E1E040}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{DF6BFB10-6A85-4437-BE1D-D822695FED9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF6BFB10-6A85-4437-BE1D-D822695FED9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF6BFB10-6A85-4437-BE1D-D822695FED9B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F26B15CC-CF04-46E8-8CA0-B7A150BB62BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F26B15CC-CF04-46E8-8CA0-B7A150BB62BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F26B15CC-CF04-46E8-8CA0-B7A150BB62BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F26B15CC-CF04-46E8-8CA0-B7A150BB62BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C709BE-500C-48A7-92D0-07CBE3E1E040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C709BE-500C-48A7-92D0-07CBE3E1E040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C709BE-500C-48A7-92D0-07CBE3E1E040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C709BE-500C-48A7-92D0-07CBE3E1E040}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
